@@ -59,8 +59,8 @@ BOT_NAME = "@AGENTDEEPESH01"
 # ============================
 # FORCE JOIN CHANNEL
 # ============================
-CHANNEL_USERNAME = "@cashoutbyany"
-CHANNEL_URL = "https://t.me/cashoutbyany"
+CHANNEL_USERNAME = "@zxdeepyaduvansh"
+CHANNEL_URL = "https://t.me/zxdeepyaduvansh"
 
 # ============================
 # USER CONFIG – PERSISTENT VOLUME FIX
